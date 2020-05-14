@@ -7,7 +7,7 @@
 </head>
 <body id="pagina-login">
 	<?php
-	  echo "Hola, soy Jose Antonio";
+	  echo "Hola, soy Jose Antonio Guerrero Aragón";
 	  ?>
 </body>
 </html>
